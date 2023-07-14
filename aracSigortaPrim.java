@@ -6,6 +6,7 @@ public class aracSigortaPrim {
 
     public static void main(String[] args) {
         start();
+        System.out.println("Yenilendi");
 
     }
 
